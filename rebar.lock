@@ -15,6 +15,6 @@
        {ref,"0dde9d3b37b7bec3a4dfb0e87684dd7039e169ab"}},
   1},
  {<<"riak_pb">>,
-  {git,"git://github.com/syncfree/riak_pb",
-       {ref,"322309b2bb69b38191a51b21247a71b5e412e656"}},
+  {git,"git://github.com/pedromslopes/riak_pb",
+       {ref,"85a2256fd3b70f0d79ddf42f868dbb4adf0becbc"}},
   0}].

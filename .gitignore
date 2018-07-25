@@ -2,3 +2,5 @@
 deps/
 ebin/
 _build/
+.idea
+*.iml
