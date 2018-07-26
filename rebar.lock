@@ -16,5 +16,5 @@
   1},
  {<<"riak_pb">>,
   {git,"git://github.com/pedromslopes/riak_pb",
-       {ref,"85a2256fd3b70f0d79ddf42f868dbb4adf0becbc"}},
+       {ref,"94237f640a7a8eb06e02066d2932efe2d5f2ab8d"}},
   0}].
